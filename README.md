@@ -1,5 +1,5 @@
- 👋 Hello There,
-  - I'm a CS Student
+Hello There 👋,
+  - Soon-to-be computer science graduate 
   - Currently learning React Native and Python
   - How to reach me: <a href="https://www.linkedin.com/in/elkayam-melesse/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a href="mailto: elka@duck.com">Email</a>
 
