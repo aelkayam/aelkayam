@@ -1,7 +1,4 @@
-Hello There 👋,
-  - Soon-to-be computer science graduate 
-  - Currently learning React Native and Python
-  - How to reach me: <a href="https://www.linkedin.com/in/elkayam-melesse/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a href="mailto: elka@duck.com">Email</a>
+Hello There 👋
 
 <!---
 aelkayam/aelkayam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
