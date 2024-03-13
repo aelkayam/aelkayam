@@ -39,12 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aelkayam&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=calm&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/aelkayam/aelkayam/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!---
 aelkayam/aelkayam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
