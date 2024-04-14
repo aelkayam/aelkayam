@@ -1,7 +1,5 @@
 <h3 align="left">Hello There 👋</h3>
 
-###
-
 <p align="left">My name is Elka, I'm currently learning full-stack development by creating small web apps.</p>
 
 ###
